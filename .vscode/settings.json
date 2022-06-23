@@ -1,0 +1,26 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "window.zoomLevel": 0.5,
+  "terminal.integrated.fontSize": 12,
+
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editor.enablePreview": false,
+
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "off",
+
+  "explorer.openEditors.visible": 0,
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 2000,
+
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+  "prettier.printWidth": 100,
+
+  "tslint.autoFixOnSave": true
+}
