@@ -22,5 +22,8 @@
   "prettier.useTabs": false,
   "prettier.printWidth": 100,
 
-  "tslint.autoFixOnSave": true
+  "tslint.autoFixOnSave": true,
+  "java.configuration.runtimes": [
+  
+  ]
 }
