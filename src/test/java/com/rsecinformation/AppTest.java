@@ -17,7 +17,7 @@ public class AppTest {
   public void testeEmail() {
 
     final String username = "security@spassu.com";
-    final String password = "d8n9thj49eb9km";
+    final String password = "";
 
     Properties props = new Properties();
     props.put("mail.smtp.host", "mail.spassu.com");
