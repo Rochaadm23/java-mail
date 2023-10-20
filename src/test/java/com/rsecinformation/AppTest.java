@@ -16,11 +16,11 @@ public class AppTest {
   @Test
   public void testeEmail() {
 
-    final String username = "security@spassu.com";
+    final String username = "security@abc.com";
     final String password = "";
 
     Properties props = new Properties();
-    props.put("mail.smtp.host", "mail.spassu.com");
+    props.put("mail.smtp.host", "mail.abc.com");
 		props.put("mail.smtp.socketFactory.port", "465");
 		props.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
 		props.put("mail.smtp.auth", "true");
